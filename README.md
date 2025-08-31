@@ -1,4 +1,4 @@
-# Weighted Round Robin
+# Smooth Weighted Round Robin
 Простая реализация плавного WRR.
 
 ## Установка
