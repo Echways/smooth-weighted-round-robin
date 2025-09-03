@@ -3,7 +3,7 @@
 
 ## Установка
 ```bash
-git clone git@github.com:Echways/smoothweightedroundrobin.git
+git clone git@github.com:Echways/smooth-weighted-round-robin.git
 ```
 
 Затем в вашем коде
