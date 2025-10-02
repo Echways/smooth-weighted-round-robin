@@ -3,6 +3,7 @@
 #include "../server/server.hpp"
 #include <vector>
 #include <optional>
+#include <cstdint>
 
 
 class SmoothWeightedRR{

@@ -1,5 +1,4 @@
 #include "../../includes/swrr/swrr.hpp"
-#include <cstdint>
 
 SmoothWeightedRR::SmoothWeightedRR()
     : totalWeight_(0)
